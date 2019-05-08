@@ -10,5 +10,7 @@ package entities.enums;
  * @author User
  */
 public enum Color {
-    
+    BLACK,
+    BLUE,
+    RED
 }
